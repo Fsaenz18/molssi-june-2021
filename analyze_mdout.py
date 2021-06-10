@@ -1,3 +1,6 @@
+"""
+This is the homework for session 3
+"""
 import os
 import argparse
 
